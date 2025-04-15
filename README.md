@@ -6,26 +6,40 @@
 
 ### "Finding your way around a big campus can be tough, right? Well, here's our solution!"
 
-## Introduction
+## 📘 Introduction
 Our **Campus Navigation System (CNS)** is designed to simplify navigation in large campuses (Here we are demostrting using our campus as a base). By combining dynamic graph structures, efficient pathfinding algorithms(Dijkstra algorithm), and an interactive UI, our solution helps students, faculty, and visitors find their way in the campus easily.
 
-## Key Features
+## ✨ Key Features
 - **Graph-Based Modeling:** Buildings are nodes, and pathways are edges.
 - **Shortest Path Algorithm:** Utilizes **Dijkstra's Algorithm** for optimal route calculation.
 - **Dynamic Graph Updates:** Real-time addition or removal of buildings and pathways can be done by the admin.
 - **Interactive UI:** Developed using **SWING** for a seamless experience.
 - **Future Enhancements:** Plans for GPS integration, AI-based route optimization, better web interface using **FLASK** and **REACT** and a mobile app using **Flutter**.
 
-## Installation
-Follow these steps to get the CNS up and running:
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:Ranjith-7777/OOPs-DSA-Project.git
-   cd Campus-Navigation-System
-   ```
- 
+## 🛠️ Installation  
 
-##  Project Structure
+Follow these steps to get the CNS up and running:
+
+<details> 
+   <summary>🌐 Clone using HTTPS (for general users)</summary> <br>
+   
+   ```bash
+   git clone https://github.com/ADKA2006/Campus-Navigation-System-CNS.git
+   cd Campus-Navigation-System-CNS/Campus-Navigation-System/Codes
+   ```
+</details>
+
+<details>
+   <summary>🔐 Clone using SSH (for contributors)</summary> <br>
+      
+   ```bash
+   git clone git@github.com:ADKA2006/Campus-Navigation-System-CNS.git
+   cd Campus-Navigation-System-CNS/Campus-Navigation-System/Codes
+   ```
+</details>
+
+
+## 🗂️ Project Structure
 MVC design pattern has been followed while coding and is given as follows
 ```
 |-- CampusNavigation
@@ -50,21 +64,21 @@ MVC design pattern has been followed while coding and is given as follows
 |-- README.md
 ```
 
-## Usage
+## ▶️ Usage
 1. **Search for Locations:** Enter your starting and ending points to view the shortest path.
 2. **View Dynamic Changes:** The system can dynamically adapt to newly added or removed buildings.
 3. **Interactive Map:** The visual interface allows you to explore campus layouts efficiently.
 
-## Future Plans
+## 🚀 Future Plans
  **GPS Integration** — Real-time location updates.<br>
  **AI-Based Route Optimization** — Intelligent path adjustments based on congestion.<br>
  Better web interface using **FLASK** and **REACT**.<br>
  **Mobile App Development** — Future migration to **Flutter** for improved accessibility.<br>
 
-## License
+## ⚖️ License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contributors ✨
+## Contributors 
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
