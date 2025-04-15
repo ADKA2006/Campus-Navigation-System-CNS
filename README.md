@@ -75,6 +75,11 @@ MVC design pattern has been followed while coding and is given as follows
  Better web interface using **FLASK** and **REACT**.<br>
  **Mobile App Development** — Future migration to **Flutter** for improved accessibility.<br>
 
+## 🌟 Sreenshot of UI
+
+![UI preview](Miscellaneous/GUI%20working.jpg)
+
+
 ## ⚖️ License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
